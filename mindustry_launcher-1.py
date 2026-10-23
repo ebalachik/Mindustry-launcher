@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """MINDUSTRY // LAUNCHER — терминальный лаунчер для Mindustry (бесплатная версия).
 
-* версии берутся из https://github.com/Anuken/Mindustry/releases
+* версии бeрутся из https://github.com/Anuken/Mindustry/releases
 * контейнер = отдельная копия настроек + отдельные сохранения/моды (своя папка data)
 * настройки лежат в settings.ini, контейнеры — в containers/<имя>/container.ini
 
